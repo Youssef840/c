@@ -108,7 +108,7 @@ body::before{
   border: 2px solid transparent;
   border-radius: 6px;
   outline: none;
-  transition all 0.3s ease;
+  transition all:  0.3s ease;
 }
 .content .message-box textarea:focus{
   border-color: #ba24c2;
