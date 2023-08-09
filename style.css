@@ -72,6 +72,18 @@ body::before{
   border: 2px solid transparent;
   transition: all 0.3s ease;
 }
+.content .message-box input{
+position: absolute;
+  height: 100%;
+  width: 100%;
+  border-radius: 6px;
+  font-size: 16px;
+  outline: none;
+  padding-left: 16px;
+  background: #fae9fb;
+  border: 2px solid transparent;
+  transition: all 0.3s ease;
+}
 .content .input-box input:focus,
 .content .input-box input:valid{
   border-color: #ba24c2;
